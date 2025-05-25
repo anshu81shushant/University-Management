@@ -15,14 +15,13 @@ A Java-based desktop application designed to streamline university operations, i
 - **Java**: JDK 8 or higher
 - **MySQL**: Version 8.0 or later
 - **MySQL JDBC Driver**: For database connectivity
-- **IDE**: IntelliJ IDEA, Eclipse, or any Java-compatible IDE (optional)
-- **Image Files**: Icons referenced in the code (e.g., `about.jpg`, `exam.jpg`) in `src/icons/`
+
 
 ## Setup Instructions
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/UniversityManagementSystem.git
+git clone https://github.com/anshu81shushant/University-Management
 cd UniversityManagementSystem
 
 2. Set Up MySQL Database
