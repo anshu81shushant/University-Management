@@ -11,7 +11,6 @@ A Java-based desktop application designed to streamline university operations, i
 - **Database Integration**: Uses MySQL to store and retrieve data securely.
 
 
-
 ## Prerequisites
 - **Java**: JDK 8 or higher
 - **MySQL**: Version 8.0 or later
@@ -22,7 +21,7 @@ A Java-based desktop application designed to streamline university operations, i
 ## Setup Instructions
 
 ### 1. Clone the Repository
-```bash
+
 git clone https://github.com/your-username/UniversityManagementSystem.git
 cd UniversityManagementSystem
 
@@ -171,7 +170,3 @@ Deepali (231BTCSEAM003)
 Tanish (220BTCCSE037)
 Anshu (220BTCCSE043)
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Version: 1.0 | Developed for Delhi Technical University```
